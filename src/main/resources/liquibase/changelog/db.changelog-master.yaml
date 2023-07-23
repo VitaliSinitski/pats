@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: liquibase/changelog/v-1.0/create-tables-v.1.0.yaml
